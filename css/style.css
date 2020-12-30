@@ -206,23 +206,7 @@ button:focus {
     height: auto;
 }
 
-.box {
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 75px;
-	height: 75px;
-	background-image: none;
-	background-size: auto auto;
-	background-image: none;
-	-webkit-animation: move 2s ease-in-out infinite both;
-	animation: move 2s ease-in-out infinite both;
-	animation-delay: 0s;
-	animation-delay: 0s;
-	animation-delay: 0s;
-	background-image: url('../images/gb.png');
-	background-size: 100% 100%;
-}
+
 
 .box:nth-child(1) {
 	-webkit-animation-delay: -1s;
